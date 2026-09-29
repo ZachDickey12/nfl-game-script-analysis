@@ -80,7 +80,7 @@ Passing frequency increased as teams fell further behind.
 
 
 
-!\[Pass Rate by Game Script](pass\_rate\_by\_game\_script.png)
+!\[Pass Rate by Game Script](./pass\_rate\_by\_game\_script.png)
 
 
 
@@ -128,7 +128,7 @@ The difference between trailing by 10+ and leading by 10+ increased to 45.8 perc
 
 
 
-!\[First Quarter vs Fourth Quarter](pass\_rate\_q1\_vs\_q4.png)
+!\[First Quarter vs Fourth Quarter](./pass\_rate\_q1\_vs\_q4.png)
 
 
 
