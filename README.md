@@ -88,8 +88,7 @@ Passing frequency increased as teams fell further behind and decreased as teams 
 
 
 
-<img src="pass\_rate\_by\_game\_script.png" alt="Pass Rate by Game Script">
-
+<img src="https://github.com/ZachDickey12/nfl-game-script-analysis/blob/main/pass_rate_by_game_script.png?raw=true" alt="Pass Rate by Game Script">
 
 
 \## First Quarter vs Fourth Quarter
@@ -144,7 +143,7 @@ This shows that game script has a much stronger relationship with offensive play
 
 
 
-<img src="pass\_rate\_q1\_vs\_q4.png" alt="First Quarter vs Fourth Quarter">
+<img src="https://github.com/ZachDickey12/nfl-game-script-analysis/blob/main/pass_rate_q1_vs_q4.png?raw=true" alt="First Quarter vs Fourth Quarter">
 
 
 
