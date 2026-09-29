@@ -64,18 +64,6 @@ I also compared first-quarter and fourth-quarter passing rates to determine whet
 
 
 
-!\[Pass Rate by Game Script](pass\_rate\_by\_game\_script.png)
-
-
-
-!\[First Quarter vs Fourth Quarter](pass\_rate\_q1\_vs\_q4.png)
-
-
-
-The 2025 results were:
-
-
-
 \- Trailing 10+: 67.2% pass rate
 
 \- Trailing 4–9: 59.8%
@@ -89,6 +77,10 @@ The 2025 results were:
 
 
 Passing frequency increased as teams fell further behind.
+
+
+
+!\[Pass Rate by Game Script](pass\_rate\_by\_game\_script.png)
 
 
 
@@ -112,7 +104,7 @@ Passing frequency increased as teams fell further behind.
 
 
 
-The difference between trailing by 10+ and leading by 10+ was only 4.2 percentage points.
+The difference between trailing by 10+ and leading by 10+ was 4.2 percentage points.
 
 
 
@@ -133,6 +125,10 @@ The difference between trailing by 10+ and leading by 10+ was only 4.2 percentag
 
 
 The difference between trailing by 10+ and leading by 10+ increased to 45.8 percentage points.
+
+
+
+!\[First Quarter vs Fourth Quarter](pass\_rate\_q1\_vs\_q4.png)
 
 
 
