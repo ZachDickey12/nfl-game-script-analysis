@@ -6,5 +6,5 @@ Testing the README.
 
 
 
-!\[Pass Rate by Game Script](pass\_rate\_by\_game\_script.png)
+<img src="pass_rate_by_game_script.png" alt="Pass Rate by Game Script">
 
